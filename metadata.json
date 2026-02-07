@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster Chess Mobile",
+  "description": "A premium 2-player mobile chess experience featuring AI-powered game analysis and move suggestions using Google Gemini.",
+  "requestFramePermissions": []
+}
